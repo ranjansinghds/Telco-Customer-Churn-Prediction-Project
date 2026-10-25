@@ -74,7 +74,7 @@ The project follows a structured machine learning workflow to analyze customer b
 
 Here are some visualizations from the project:
 
-![alt text](https://github.com/ranjansinghds/Telco-Customer-Churn-Prediction-Project/blob/main/Telco%20Customer%20Churn%20Prediction%20Png/.pngchurn_distribution)
+![alt text](https://github.com/ranjansinghds/Telco-Customer-Churn-Prediction-Project/blob/main/Telco%20Customer%20Churn%20Prediction%20Png/pngchurn_distribution)
 ![alt text](https://github.com/ranjansinghds/Telco-Customer-Churn-Prediction-Project/blob/main/Telco%20Customer%20Churn%20Prediction%20Png/churn_by_contract_type.png)
 ![alt text](https://github.com/ranjansinghds/Telco-Customer-Churn-Prediction-Project/blob/main/Telco%20Customer%20Churn%20Prediction%20Png/tenure_vs_churn.png)
 ![alt text](https://github.com/ranjansinghds/Telco-Customer-Churn-Prediction-Project/blob/main/Telco%20Customer%20Churn%20Prediction%20Png/churn_by_internet_service.png)
